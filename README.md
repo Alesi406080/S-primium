@@ -1,6 +1,8 @@
 
 # S-primium Tool
-
+<p align="center">
+<img src="https://i.pinimg.com/originals/9e/3d/c4/9e3dc44bced5bb5c0d9cc6f439500b02.gif">
+</p>
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=SO-MI-AWAN&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 
 <h1 align="center">(SOMI-BRAND)</h1>
