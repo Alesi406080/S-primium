@@ -8,7 +8,7 @@ if __name__ == "__main__":
 			print(" [?] Wellcome : ")
 			exit(" [!] Run : python S-primium.py remove")
 	try:
-		__import__("somix").__main_ Somi()
+		__import__("somix").__main_Somi()
 	except Exception as e:
 		exit(str(e))
 
